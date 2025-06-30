@@ -68,7 +68,7 @@ Use Case: Replace if/else or switch logic with interchangeable strategies.
 ### Example: Payment Strategy
 
 ```bash
-curl -X POST "http://localhost:8080/strategy/payment/pay" -d "amount=100" -d "type=credit_card"
+curl -X POST "http://localhost:8080/strategy/payment/pay" -d "amount=100" -d "method=creditCard"
 ```
 
 ```bash
@@ -82,7 +82,7 @@ Use Case: Decouple components that should respond to an event (like user registr
 ### Example: User Registration Notification
 
 ```bash
-curl -X POST "http://localhost:8080/observer/notification/subscribe" 
+curl -X POST "http://localhost:8080/observer/user/create" -d "email=to@mail.com"
 ```
 
 ## Decorator Pattern
