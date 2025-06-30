@@ -1,4 +1,4 @@
-package com.test.factory;
+package com.design.patterns.factory;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

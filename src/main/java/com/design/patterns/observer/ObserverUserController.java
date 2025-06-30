@@ -1,4 +1,4 @@
-package com.test.observer;
+package com.design.patterns.observer;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;

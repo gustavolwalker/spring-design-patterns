@@ -1,4 +1,4 @@
-package com.test.singleton;
+package com.design.patterns.singleton;
 
 import org.springframework.stereotype.Service;
 

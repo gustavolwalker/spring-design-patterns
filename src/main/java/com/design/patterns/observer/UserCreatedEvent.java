@@ -1,4 +1,4 @@
-package com.test.observer;
+package com.design.patterns.observer;
 
 import org.springframework.context.ApplicationEvent;
 

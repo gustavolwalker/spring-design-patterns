@@ -1,4 +1,4 @@
-package com.test.strategy;
+package com.design.patterns.strategy;
 
 import java.util.UUID;
 

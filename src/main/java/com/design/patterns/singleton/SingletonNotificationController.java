@@ -1,4 +1,4 @@
-package com.test.singleton;
+package com.design.patterns.singleton;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

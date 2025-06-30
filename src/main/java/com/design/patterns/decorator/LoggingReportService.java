@@ -1,4 +1,4 @@
-package com.test.decorator;
+package com.design.patterns.decorator;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
